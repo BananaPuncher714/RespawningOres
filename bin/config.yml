@@ -1,0 +1,17 @@
+# Respawning Ores Config
+# The id of the respawning block
+broken-block: 4
+
+# The id of blocks that will be converted with WorldEdit
+detect-block: 48
+
+# The id of the item that's used to convert blocks
+edit-item: 392
+
+# How many seconds before each ore respawns
+min-delay: 300
+max-delay: 600
+
+# The message that the player gets if they try to break a block
+# that has not respawned. %t is the amount of seconds left, and & is the color symbol
+wait-message: "&cYou need to wait %t more seconds!"

@@ -1,0 +1,7 @@
+name: RespawningOres
+main: io.github.bananapuncher714.RespawningOresMain
+version: 1.0
+author: BananaPuncher714
+commands:
+    respawningores:
+        description: Base command. Requires WorldEdit to use

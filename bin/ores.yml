@@ -1,0 +1,51 @@
+# Respawning Ores coded by BananaPuncher714
+# The name is what is displayed to the user
+# The material is the id of the block that will respawn
+# The drop is the id of the item that will drop
+# The drop-data is the data value of the dropped item
+# The drop-amount is the amount that drops
+# The spawn-chance-weight is the percent that the block will spawn
+# It should add up to 100
+
+Coal:
+    material: 16
+    drop: 263
+    drop-data: 0
+    drop-amount: 1
+    spawn-chance-percent: 25
+Iron:
+    material: 15
+    drop: 15
+    drop-data: 0
+    drop-amount: 1
+    spawn-chance-percent: 25
+Lapis:
+    material: 21
+    drop: 21
+    drop-data: 0
+    drop-amount: 1
+    spawn-chance-percent: 16
+Redstone:
+    material: 73
+    drop: 73
+    drop-data: 0
+    drop-amount: 1
+    spawn-chance-percent: 15
+Gold:
+    material: 14
+    drop: 14
+    drop-data: 0
+    drop-amount: 1
+    spawn-chance-percent: 15
+Diamond:
+    material: 56
+    drop: 56
+    drop-data: 0
+    drop-amount: 1
+    spawn-chance-percent: 2
+Emerald:
+    material: 129
+    drop: 129
+    drop-data: 0
+    drop-amount: 1
+    spawn-chance-percent: 2
